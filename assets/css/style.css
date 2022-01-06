@@ -9131,32 +9131,3 @@ header.header-3 .main-menu ul > li > ul ul {
   margin-top: -5px;
 }
 /*# sourceMappingURL=style.css.map */
-
-
-/** typed js styles  */
-#typed-cursor {
-  opacity: 1;
-  -webkit-animation: blink 0.7s infinite;
-  -moz-animation: blink 0.7s infinite;
-  animation: blink 0.7s infinite;
-  font-size: 10px;
-}
-
-@keyframes blink {
-  0% { opacity: 1; }
-  50% { opacity: 0; }
-  100% { opacity: 1; }
-}
-@-webkit-keyframes blink {
-  0% { opacity: 1; }
-  50% { opacity: 0; }
-  100% { opacity: 1; }
-}
-@-moz-keyframes blink {
-  0% { opacity: 1; }
-  50% { opacity: 0; }
-  100% { opacity: 1; }
-}
-#typed{
-  font-size: 70px;
-}
